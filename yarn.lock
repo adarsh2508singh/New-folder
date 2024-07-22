@@ -694,7 +694,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/core@npm:7.11.2":
+"@mantine/core@npm:^7.11.2":
   version: 7.11.2
   resolution: "@mantine/core@npm:7.11.2"
   dependencies:
@@ -712,7 +712,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:7.11.2":
+"@mantine/hooks@npm:^7.11.2":
   version: 7.11.2
   resolution: "@mantine/hooks@npm:7.11.2"
   peerDependencies:
@@ -3421,8 +3421,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vite-min-template@workspace:."
   dependencies:
-    "@mantine/core": "npm:7.11.2"
-    "@mantine/hooks": "npm:7.11.2"
+    "@mantine/core": "npm:^7.11.2"
+    "@mantine/hooks": "npm:^7.11.2"
     "@types/react": "npm:^18.3.3"
     "@types/react-dom": "npm:^18.3.0"
     "@typescript-eslint/eslint-plugin": "npm:^7.13.1"
